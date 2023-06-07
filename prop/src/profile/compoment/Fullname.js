@@ -1,4 +1,5 @@
 import React from 'react';
+{/* Const fullname */}
 const Fullname=(prop)=>{
     return(
         <>
