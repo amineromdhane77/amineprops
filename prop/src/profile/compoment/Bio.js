@@ -1,4 +1,5 @@
 import React from "react";
+{/* const bio*/}
 const Bio=(prop1)=>{
     return(
         <>
