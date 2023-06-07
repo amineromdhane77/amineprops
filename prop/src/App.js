@@ -1,6 +1,7 @@
 
 import './App.css';
 import Fullname from './profile/compoment/Fullname';
+{/* importation de nos composants */}
 import Bio from './profile/compoment/Bio';
 import Profession from './profile/compoment/Profession';
 
